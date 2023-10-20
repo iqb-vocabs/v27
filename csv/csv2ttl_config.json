@@ -1,0 +1,34 @@
+{
+    "id": "Itemformat",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Itemformat"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v27",
+    "outDir": "./",
+    "idPattern": "^[abcdefghprqstuvxyz]{1}[2345679]{1}[abcdefghprqstuvxyz]{1}$",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "it",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemtyp"
+          }
+        ],
+        "filenameSource": "it_Itemtyp.csv",
+        "filenameTarget": "it_Itemtyp.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
+  
