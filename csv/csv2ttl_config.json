@@ -28,6 +28,40 @@
             "value": ""
           }
         ]
+      },
+      {
+        "id": "mp",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemformat Mathematik Primar"
+          }
+        ],
+        "filenameSource": "mp_Itemformat_Mathematik_Primar.csv",
+        "filenameTarget": "mp_Itemformat_Mathematik_Primar.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dp",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemformat Deutsch Primar"
+          }
+        ],
+        "filenameSource": "dp_Itemformat_Deutsch_Primar.csv",
+        "filenameTarget": "dp_Itemformat_Deutsch_Primar.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
       }
     ]
   }
