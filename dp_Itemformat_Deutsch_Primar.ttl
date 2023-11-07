@@ -1,6 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
-@prefix n0: <https://w3id.org/iqb/v27/dp/#>. 
+@prefix n0: <https://w3id.org/iqb/v27/dp/>. 
 @prefix n1: <https://w3id.org/iqb/v27/dp/>. 
 
 n1:g2u
