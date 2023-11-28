@@ -79,6 +79,23 @@
             "value": ""
           }
         ]
+      },
+      {
+        "id": "fr",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemformat Fremdsprachen Primar"
+          }
+        ],
+        "filenameSource": "fr_Itemformat_Fremdsprachen.csv",
+        "filenameTarget": "fr_Itemformat_Fremdsprachen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
       }
     ]
   }
