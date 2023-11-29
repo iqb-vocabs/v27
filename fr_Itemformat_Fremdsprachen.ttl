@@ -3,57 +3,78 @@
 @prefix n0: <https://w3id.org/iqb/v27/fr/>. 
 @prefix n1: <https://w3id.org/iqb/v27/fr/>. 
 
-n1:u9g
+n1:y9s
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kurzantwort"@de.
-n1:g9b
+	skos:prefLabel "Multiple Choice (MC)"@de.
+n1:d4d
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Begründung"@de.
-n1:u4e
+	skos:prefLabel "Complex Multiple Choice (CMC)"@de.
+n1:r9x
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "CMC"@de.
-n1:h2r
+	skos:prefLabel "Zuordnen"@de.
+n1:a9e
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "GeoGebra"@de.
-n1:r3x
+	skos:prefLabel "Umordnen"@de.
+n1:a2z
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "MC"@de.
-n1:z9y
+	skos:prefLabel "Markieren"@de.
+n1:e4g
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Umordnung"@de.
-n1:z3y
+	skos:prefLabel "Einfärben"@de.
+n1:p5h
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Zuordnung"@de.
+	skos:prefLabel "Zeichnen / Konstruieren"@de.
+n1:b4y
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "numerische Kurzantwort"@de.
+n1:c6c
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "verbale Kurzantwort"@de.
+n1:q3r
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Langantwort"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Itemformat - Itemformat Fremdsprachen Primar"@de;
 	skos:hasTopConcept
-		n1:u9g,
-		n1:g9b,
-		n1:u4e,
-		n1:h2r,
-		n1:r3x,
-		n1:z9y,
-		n1:z3y.
+		n1:y9s,
+		n1:d4d,
+		n1:r9x,
+		n1:a9e,
+		n1:a2z,
+		n1:e4g,
+		n1:p5h,
+		n1:b4y,
+		n1:c6c,
+		n1:q3r.

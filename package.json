@@ -1,6 +1,6 @@
 {
   "name": "iqb-vocabs_v27",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Itemformat",
   "scripts": {
     "run_id": "addidcsv csv",

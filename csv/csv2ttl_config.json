@@ -64,23 +64,6 @@
         ]
       },
       {
-        "id": "ip",
-        "title": [
-          {
-            "lang": "de",
-            "value": "Itemformat Primar"
-          }
-        ],
-        "filenameSource": "ip_Itemformat_Primar.csv",
-        "filenameTarget": "ip_Itemformat_Primar.ttl",
-        "description": [
-          {
-            "lang": "de",
-            "value": ""
-          }
-        ]
-      },
-      {
         "id": "fr",
         "title": [
           {

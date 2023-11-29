@@ -3,99 +3,78 @@
 @prefix n0: <https://w3id.org/iqb/v27/dp/>. 
 @prefix n1: <https://w3id.org/iqb/v27/dp/>. 
 
-n1:g2u
+n1:y9s
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Begründung"@de.
-n1:c2f
+	skos:prefLabel "Multiple Choice (MC)"@de.
+n1:d4d
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Begründung + Unterstreichen"@de.
-n1:p3x
+	skos:prefLabel "Complex Multiple Choice (CMC)"@de.
+n1:r9x
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "CMC"@de.
-n1:s4p
+	skos:prefLabel "Zuordnen"@de.
+n1:a9e
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kurzantwort"@de.
-n1:b6q
+	skos:prefLabel "Umordnen"@de.
+n1:a2z
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Markieren"@de.
-n1:q4d
+n1:e4g
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "MC"@de.
-n1:q5f
+	skos:prefLabel "Einfärben"@de.
+n1:p5h
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Umordnung"@de.
-n1:r6h
+	skos:prefLabel "Zeichnen / Konstruieren"@de.
+n1:b4y
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Unterstreichen"@de.
-n1:r2a
+	skos:prefLabel "numerische Kurzantwort"@de.
+n1:c6c
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Unterstreichen + Kurzantwort"@de.
-n1:x5f
+	skos:prefLabel "verbale Kurzantwort"@de.
+n1:q3r
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "verworfen"@de.
-n1:a5s
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "vKurzantwort"@de.
-n1:z5u
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "vKurzbegründung"@de.
-n1:f2r
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Zuordnung"@de.
+	skos:prefLabel "Langantwort"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Itemformat - Itemformat Deutsch Primar"@de;
 	skos:hasTopConcept
-		n1:g2u,
-		n1:c2f,
-		n1:p3x,
-		n1:s4p,
-		n1:b6q,
-		n1:q4d,
-		n1:q5f,
-		n1:r6h,
-		n1:r2a,
-		n1:x5f,
-		n1:a5s,
-		n1:z5u,
-		n1:f2r.
+		n1:y9s,
+		n1:d4d,
+		n1:r9x,
+		n1:a9e,
+		n1:a2z,
+		n1:e4g,
+		n1:p5h,
+		n1:b4y,
+		n1:c6c,
+		n1:q3r.
