@@ -1,6 +1,6 @@
 {
   "name": "iqb-vocabs_v27",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Itemformat",
   "scripts": {
     "run_id": "addidcsv csv",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/iqb-vocabs/v27.git"
   },
   "author": "IQB",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/iqb-vocabs/v27/issues"
   },
