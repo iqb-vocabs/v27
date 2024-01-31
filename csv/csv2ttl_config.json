@@ -64,19 +64,36 @@
         ]
       },
       {
-        "id": "fr",
+        "id": "fe",
         "title": [
           {
             "lang": "de",
-            "value": "Itemformat Fremdsprachen Primar"
+            "value": "Itemformat Englisch"
           }
         ],
-        "filenameSource": "fr_Itemformat_Fremdsprachen.csv",
-        "filenameTarget": "fr_Itemformat_Fremdsprachen.ttl",
+        "filenameSource": "fe_Itemformat_Englisch.csv",
+        "filenameTarget": "fe_Itemformat_Englisch.ttl",
         "description": [
           {
             "lang": "de",
             "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ff",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemformat Französisch"
+          }
+        ],
+        "filenameSource": "ff_Itemformat_Französisch.csv",
+        "filenameTarget": "ff_Itemformat_Französisch.ttl",
+        "description": [
+          {
+                "lang": "de",
+                "value": ""
           }
         ]
       }
