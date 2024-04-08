@@ -21,12 +21,6 @@ n1:q9z
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "geschlossen"@de.
-n1:p3u
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "extra"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -34,5 +28,4 @@ n0:
 	skos:hasTopConcept
 		n1:r7x,
 		n1:x6t,
-		n1:q9z,
-		n1:p3u.
+		n1:q9z.
