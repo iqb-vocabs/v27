@@ -64,6 +64,23 @@
         ]
       },
       {
+        "id": "ds",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemformat Deutsch Sek I"
+          }
+        ],
+        "filenameSource": "dp_Itemformat_Deutsch_Sek_I.csv",
+        "filenameTarget": "dp_Itemformat_Deutsch_Sek_I.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
         "id": "fe",
         "title": [
           {

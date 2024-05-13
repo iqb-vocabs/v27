@@ -1,5 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v27/it/>. 
 @prefix n1: <https://w3id.org/iqb/v27/it/>. 
 
@@ -25,6 +26,8 @@ n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Itemformat - Itemtyp"@de;
+	dc:title "Itemformat - Itemtyp"@de;
+	dc:description "Itemformat - Itemtyp"@de;
 	skos:hasTopConcept
 		n1:r7x,
 		n1:x6t,

@@ -1,8 +1,8 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
-@prefix n0: <https://w3id.org/iqb/v27/dp/>. 
-@prefix n1: <https://w3id.org/iqb/v27/dp/>. 
+@prefix n0: <https://w3id.org/iqb/v27/ds/>. 
+@prefix n1: <https://w3id.org/iqb/v27/ds/>. 
 
 n1:y9s
 	 a skos:Concept;
@@ -34,24 +34,6 @@ n1:a2z
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Markieren"@de.
-n1:e4g
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Einfärben"@de.
-n1:p5h
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "Zeichnen / Konstruieren"@de.
-n1:b4y
-	 a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "numerische Kurzantwort"@de.
 n1:c6c
 	 a skos:Concept;
 	skos:inScheme n0:;
@@ -67,17 +49,14 @@ n1:q3r
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Itemformat - Itemformat Deutsch Primar"@de;
-	dc:title "Itemformat - Itemformat Deutsch Primar"@de;
-	dc:description "Itemformat - Itemformat Deutsch Primar"@de;
+	dct:title "Itemformat - Itemformat Deutsch Sek I"@de;
+	dc:title "Itemformat - Itemformat Deutsch Sek I"@de;
+	dc:description "Itemformat - Itemformat Deutsch Sek I"@de;
 	skos:hasTopConcept
 		n1:y9s,
 		n1:d4d,
 		n1:r9x,
 		n1:a9e,
 		n1:a2z,
-		n1:e4g,
-		n1:p5h,
-		n1:b4y,
 		n1:c6c,
 		n1:q3r.
