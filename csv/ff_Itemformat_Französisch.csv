@@ -1,6 +1,7 @@
-"notation","title","description","id"
-"","Mehrfachwahlaufgabe","","c9r"
-"","Zuordnungsaufgabe","","u3s"
-"","Kurzantwortaufgabe","","t3f"
-"","Ergänzungsaufgabe","","y3r"
-"","Satzergänzung","","q3s"
+"notation","title","description","id","title_en","description_en"
+"","Mehrfachwahlaufgabe","","c9r",,
+"","Zuordnungsaufgabe","","u3s",,
+"","Kurzantwortaufgabe","","t3f",,
+"","Ergänzungsaufgabe","","y3r",,
+"","Satzergänzung","","q3s",,
+"","Markieren","","z9q",,

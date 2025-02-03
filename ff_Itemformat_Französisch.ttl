@@ -1,8 +1,7 @@
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
-@prefix n0: <https://w3id.org/iqb/v27/ff/>. 
-@prefix n1: <https://w3id.org/iqb/v27/ff/>. 
+@prefix n0: <https://w3id.org/iqb/v27/ff/>.
 
 n1:c9r
 	 a skos:Concept;
@@ -34,6 +33,12 @@ n1:q3s
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Satzergänzung"@de.
+n1:z9q
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Markieren"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -45,4 +50,5 @@ n0:
 		n1:u3s,
 		n1:t3f,
 		n1:y3r,
-		n1:q3s.
+		n1:q3s,
+		n1:z9q.
