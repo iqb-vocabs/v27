@@ -2,21 +2,20 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v27/it/>. 
-@prefix n1: <https://w3id.org/iqb/v27/it/>. 
 
-n1:r7x
+n0:r7x
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "offen"@de.
-n1:x6t
+n0:x6t
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "halboffen"@de.
-n1:q9z
+n0:q9z
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
@@ -29,6 +28,6 @@ n0:
 	dc:title "Itemformat - Itemtyp"@de;
 	dc:description "Itemformat - Itemtyp"@de;
 	skos:hasTopConcept
-		n1:r7x,
-		n1:x6t,
-		n1:q9z.
+		n0:r7x,
+		n0:x6t,
+		n0:q9z.

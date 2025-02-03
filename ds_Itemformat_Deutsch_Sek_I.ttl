@@ -2,45 +2,44 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v27/ds/>. 
-@prefix n1: <https://w3id.org/iqb/v27/ds/>. 
 
-n1:y9s
+n0:y9s
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Multiple Choice (MC)"@de.
-n1:d4d
+n0:d4d
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Complex Multiple Choice (CMC)"@de.
-n1:r9x
+n0:r9x
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Zuordnen"@de.
-n1:a9e
+n0:a9e
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Umordnen"@de.
-n1:a2z
+n0:a2z
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Markieren"@de.
-n1:c6c
+n0:c6c
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "verbale Kurzantwort"@de.
-n1:q3r
+n0:q3r
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
@@ -53,10 +52,10 @@ n0:
 	dc:title "Itemformat - Itemformat Deutsch Sek I"@de;
 	dc:description "Itemformat - Itemformat Deutsch Sek I"@de;
 	skos:hasTopConcept
-		n1:y9s,
-		n1:d4d,
-		n1:r9x,
-		n1:a9e,
-		n1:a2z,
-		n1:c6c,
-		n1:q3r.
+		n0:y9s,
+		n0:d4d,
+		n0:r9x,
+		n0:a9e,
+		n0:a2z,
+		n0:c6c,
+		n0:q3r.
