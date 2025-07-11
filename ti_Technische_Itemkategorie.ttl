@@ -51,6 +51,18 @@ n0:a2u
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "GeoGebra"@de.
+n0:d9q
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Tabellenkalkulation"@de.
+n0:d7u
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Simulation"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -65,4 +77,6 @@ n0:
 		n0:s5g,
 		n0:b5v,
 		n0:q6p,
-		n0:a2u.
+		n0:a2u,
+		n0:d9q,
+		n0:d7u.

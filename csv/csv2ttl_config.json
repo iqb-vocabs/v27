@@ -115,23 +115,6 @@
         ]
       },
       {
-        "id": "ff",
-        "title": [
-          {
-            "lang": "de",
-            "value": "Itemformat Französisch"
-          }
-        ],
-        "filenameSource": "ff_Itemformat_Französisch.csv",
-        "filenameTarget": "ff_Itemformat_Französisch.ttl",
-        "description": [
-          {
-            "lang": "de",
-            "value": ""
-          }
-        ]
-      },
-      {
         "id": "ti",
         "title": [
           {
@@ -141,6 +124,40 @@
         ],
         "filenameSource": "ti_Technische_Itemkategorie.csv",
         "filenameTarget": "ti_Technische_Itemkategorie.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ns",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemformat NaWi Sek I"
+          }
+        ],
+        "filenameSource": "ns_Itemformat_NaWi_Sek_I.csv",
+        "filenameTarget": "ns_Itemformat_NaWi_Sek_I.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ms",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Itemformat Mathematik Sek I"
+          }
+        ],
+        "filenameSource": "ms_Itemformat_Mathematik_Sek_I.csv",
+        "filenameTarget": "ms_Itemformat_Mathematik_Sek_I.ttl",
         "description": [
           {
             "lang": "de",
