@@ -4,37 +4,37 @@
 @prefix n0: <https://w3id.org/iqb/v27/ff/>. 
 
 n0:c9r
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Mehrfachwahlaufgabe"@de.
 n0:u3s
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Zuordnungsaufgabe"@de.
 n0:t3f
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kurzantwortaufgabe"@de.
 n0:y3r
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Ergänzungsaufgabe"@de.
 n0:q3s
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Satzergänzung"@de.
 n0:z9q
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
@@ -45,6 +45,7 @@ n0:
 	dct:title "Itemformat - Itemformat Französisch"@de;
 	dc:title "Itemformat - Itemformat Französisch"@de;
 	dc:description "Itemformat - Itemformat Französisch"@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:c9r,
 		n0:u3s,

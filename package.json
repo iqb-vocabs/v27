@@ -16,7 +16,7 @@
     "url": "https://github.com/iqb-vocabs/v27/issues"
   },
   "homepage": "https://github.com/iqb-vocabs/v27#readme",
-  "devDependencies": {
-    "@iqb/csv2ttl": "^0.8.3"
+  "dependencies": {
+    "@iqb/csv2ttl": "^0.9.0"
   }
 }

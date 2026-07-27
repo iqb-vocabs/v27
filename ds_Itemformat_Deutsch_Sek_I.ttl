@@ -4,43 +4,43 @@
 @prefix n0: <https://w3id.org/iqb/v27/ds/>. 
 
 n0:y9s
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Multiple Choice (MC)"@de.
 n0:d4d
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Complex Multiple Choice (CMC)"@de.
 n0:r9x
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Zuordnen"@de.
 n0:a9e
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Umordnen"@de.
 n0:a2z
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Markieren"@de.
 n0:c6c
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "verbale Kurzantwort"@de.
 n0:q3r
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
@@ -51,6 +51,7 @@ n0:
 	dct:title "Itemformat - Itemformat Deutsch Sek I"@de;
 	dc:title "Itemformat - Itemformat Deutsch Sek I"@de;
 	dc:description "Itemformat - Itemformat Deutsch Sek I"@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:y9s,
 		n0:d4d,
